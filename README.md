@@ -23,7 +23,7 @@ Destination power bi Admin user
 Tested in Powershell 7.3 and Powershell 5.1
 
 ## Scriptversion log
-0.1 - Basic export tested
-0.2 - Basic import installed
-0.3 - Building the json
-0.4 - Building report in HTML
+- 0.1 - Basic export tested
+- 0.2 - Basic import installed
+- 0.3 - Building the json
+- 0.4 - Building report in HTML
