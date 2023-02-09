@@ -1,0 +1,21 @@
+{
+  "Workspace": {
+    "WorkspaceName": "Azure - DEV",
+    "WorkspaceID": "51b006cf-fe0e-4ecc-884a-b92e783e6323",
+    "WorkspaceUsers": [
+      "snorre.glemmestad@pointtaken.no",
+      "Odd.Daniel.Taasaasen@pointtaken.no",
+      "sa_loganalytics@novanetas.onmicrosoft.com",
+      "kim.andre.vigemyr@pointtaken.no",
+      "magnus.gehrken@pointtaken.no"
+    ]
+  },
+  "Report": null,
+  "Dataset": null,
+  "Dashboard": {
+    "Id": "29f3db4c-bf76-4a1c-ac3c-6ddab6900477",
+    "Name": "Testboard",
+    "IsReadOnly": false,
+    "EmbedUrl": "https://app.powerbi.com/dashboardEmbed?dashboardId=29f3db4c-bf76-4a1c-ac3c-6ddab6900477&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLU5PUlRILUVVUk9QRS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldCIsImVtYmVkRmVhdHVyZXMiOnsibW9kZXJuRW1iZWQiOmZhbHNlfX0%3d"
+  }
+}
